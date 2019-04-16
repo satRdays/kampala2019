@@ -173,7 +173,7 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Keynote Speakers"
-    #subtitle = "#"
+    subtitle = "#"
     bg = true
 
     [params.portfolio.modal]
