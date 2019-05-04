@@ -1,13 +1,15 @@
-modalID: 2
-title: "Second Talk"
-subtitle: "Second Subtitle"
-date: 1970-01-01
-startsAt: 00:01
-endsAt: 00:02
-img: roundicons.png
-preview: faceholder.png
-client: Speaker Two
-clientLink: "#"
-category: Category 2
-description: "Describe 2"
+# modalID: 1
+title: "Shelmith Kariuki"
+# subtitle: "ffff"
+# date: 1970-01-01
+# startsAt: 00:00
+# endsAt: 00:01
+# img: norm.jpeg
+preview: shelmith.png
+client: Busara Center For Behavioral Economics
+#clientLink: "http://stat.berkeley.edu/~ledell"
+# category: Category 1
+description: "[Personal Page](https://www.busaracenter.org/staff-bios/kennedy-mundia-zzpda-jkzne-bawfl-87447-fbw9c-92psr-lmkpy-nd86c) | [Twitter](https://twitter.com/Shel_Kariuki) <br>
+She is a data scientist currently based in Nairobi, Kenya and actively part of a team that transforms data into knowledge that helps clients scale up products that they have. she is also an active member of amazing data communities in Nairobi, i.e PyData Nairobi, Nairobi Women in Machine Leaning and AI Kenya and has been working with R for 6 years, and with Python for 2 years. she enjoys learning new things each day, and always ready to take up new challenges as they arise. Machine Learning and Data Science is what she wants to work on, until she is 70+.
+"
 talk: true

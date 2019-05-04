@@ -137,7 +137,7 @@ googleAnalytics = ""
       # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
       # include botht the account and event in a string, seperated by /, with no spaces
 
-  [params.eventbrite]
+   [params.eventbrite]
     enable = true
     title = "Register"
     bg = true
@@ -163,7 +163,7 @@ googleAnalytics = ""
     bg = false
     CfSpage = "/satrdaykampala"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "15 April - 28 April 2019"
+    dates = "30 April -  15 May 2019"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -173,7 +173,7 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Keynote Speakers"
-    subtitle = "#"
+    #subtitle = "#"
     bg = true
 
     [params.portfolio.modal]
@@ -207,13 +207,13 @@ googleAnalytics = ""
     
     [[params.about.events]]
       img = "3.jpg"
-      date = "April 15-28"
+      date = "30 April -  15 May 2019"
       title = "Call For Speakers"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "May 5"
+      date = "16th May"
       title = "Final Schedule"
       description = "Attendants notified"
   
@@ -253,7 +253,7 @@ googleAnalytics = ""
       
       social = [
         ["fa-twitter", "#https://twitter.com/okello_mark"],
-        ["fa-github", ""]
+        ["fa-github", "#"]
         
       ]
 
@@ -262,18 +262,18 @@ googleAnalytics = ""
       name = "Shakirah Nakalungi"
       position = "Co-Organizer"
       social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "https://twitter.com/cynthia_kyra"],
         ["fa-github", "#"]
         
       ]
 
     
     [[params.team.members]]
-      img = "Nelda.png"
+      img = "nelda.png"
       name = "Nelda Limilimi"
       position = "Organizer and Communication Lead"
       social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "https://twitter.com/nlimilimi"],
         ["fa-github", "#"]
       ]
 

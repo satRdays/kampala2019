@@ -1,13 +1,16 @@
-modalID: 1
-title: "First Talk"
-subtitle: "First Subtitle"
-date: 1970-01-01
-startsAt: 00:00
-endsAt: 00:01
-img: roundicons.png
-preview: faceholder.png
-client: Speaker One
-clientLink: "#"
-category: Category 1
-description: "Describe 1"
+# modalID: 1
+title: " STEPH LOCKE"
+# subtitle: "ffff"
+# date: 1970-01-01
+# startsAt: 00:00
+# endsAt: 00:01
+# img: norm.jpeg
+preview: steph.png
+client: Locke Data
+clientLink: "http://heather.cs.ucdavis.edu/matloff.html"
+# category: Category 1
+description: "[Personal Page](https://itsalocke.com/company/steph/) | [Twitter](https://twitter.com/TheStephLocke) <br>
+Steph’s been earning her own way since she was twelve and she was managing a burger van by the age of seventeen. After smelling of fried onions for a long time, she started putting her maths and IT skills into use whilst she was studying for her Philosophy degree. During her degree, Steph worked a range of temp jobs from trying to cajole guys called Steve to buy motherboards to automating energy bill analysis.
+She got her first “proper” IT job at confused.com as a Product Analyst for the Utilities product.2 Steph learnt about digital marketing and did unholy things with spreadsheets to get data. The thirst for data made her learn SQL, and then she jumped into the Business Intelligence (BI) team to build the end-to-end BI environment for the utilities switching product and build some basic data mining models for analysing insurance cross-sells.
+Steph moved onto Nemo Personal Finance, a second-mortgage company, to be their BI person. She grew the BI service and more people were hired. Steph mentored five people over the next couple of years in MySQL, database, design, reporting, and most importantly, effectively working with stakeholders. In her final year at Nemo, Steph discovered her passion for R and started resurrecting her maths skills to build models for predicting who would default on their loans and more in order to satisfy regulatory requirements for BASEL II’s IRB framework"
 talk: true
