@@ -2,7 +2,7 @@
 baseurl = "https://kampala2019.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
-theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
+theme = ["hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
