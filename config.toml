@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "https://kampala2019.satrdays.org/"
+baseurl = "https://satrdays-event-template.netlify.com/"
 languageCode = "en-us"
 title = "satRday"
-theme = ["hugo-agency-theme"]
+theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
