@@ -252,7 +252,7 @@ googleAnalytics = ""
      # ]
       
       social = [
-        ["fa-twitter", "#https://twitter.com/okello_mark"],
+        ["fa-twitter", "https://twitter.com/okello_mark"],
         ["fa-github", "#"]
         
       ]
@@ -302,6 +302,10 @@ googleAnalytics = ""
     [[params.clients]]
       logo = "outbox.png"
       link = "https://outbox.co.ug/"
+      
+      [[params.clients]]
+      logo = "jumping.png"
+      link = "https://www.jumpingrivers.com/"
 
   
   [params.diversity]
